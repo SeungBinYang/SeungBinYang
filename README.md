@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning C#, Web-Backend like NodeJS, ExpressJS, DB(NoSQL, MongoDB)
 
-📞 You can contact me on this : email - sbyang0731@gmail.com / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
+📞 You can contact me on this :
+email - sbyang0731@gmail.com / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
