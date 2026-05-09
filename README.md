@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-🖥 I’m currently working on sidejob making macros, crawling, and website design.
-
-🌱 I’m currently learning C# and Web-Backend like NodeJS, ExpressJS, Database
-
 📞 You can contact me on them
 : Email - sbyang0731@gmail.com / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
