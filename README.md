@@ -14,6 +14,8 @@
 ### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ---
 
 Email - sbyang0731@gmail.com: / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
