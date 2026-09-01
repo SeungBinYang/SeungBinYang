@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=blur)
+
 ### Welcome to my Hub
 
 <!--
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 📞 You can contact me on them
-: Email - sbyang0731@gmail.com / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
+: Email - sbyang0731@gmail.com: / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
