@@ -18,4 +18,4 @@
 
 ---
 
-Email - sbyang0731@gmail.com: / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
+Email - sbyang0731@gmail.com / LinkedIn - https://www.linkedin.com/in/seungbin-yang-883371253/
